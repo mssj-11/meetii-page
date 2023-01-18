@@ -6,5 +6,5 @@
 </p>
 
 <p aling="center">
-    <img src="Información .png" alt="">
+    <img src="información .png" alt="">
 </p>
